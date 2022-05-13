@@ -52,7 +52,7 @@
 ## Deployed Link
   https://zzzbia.github.io/Horiseon-Refactored-LandingPage/
 
-## 📝 References 
+##  References 📝
 - [Stack Overflow Background Image Accessibility](https://stackoverflow.com/questions/41942992/how-to-make-background-image-accessible)
 
 - [W3 Schools HTML Image Alt Attributes](https://www.w3schools.com/tags/att_img_alt.asp)
