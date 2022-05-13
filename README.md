@@ -12,7 +12,6 @@
 - Heading attributes follow a sequential order
 
 ## Table of Contents
-- [Installation](#installation)
 - [Changes](#changes)
 - [Screenshots](#screenshots)
 - [Image Reference](#images)
