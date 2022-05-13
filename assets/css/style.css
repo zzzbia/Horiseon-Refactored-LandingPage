@@ -60,6 +60,16 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* .hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+} */
+
 main {
     width: 75%;
     display: inline-block;
