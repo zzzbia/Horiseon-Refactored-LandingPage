@@ -37,12 +37,19 @@
 
 ## Screenshots
 ![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+![CSS Changes 1](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/csschanges1.png?raw=true)
+![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+
 
 ### Images
 ![Semantic HTML Structure](https://www.w3schools.com/html/img_sem_elements.gif)
 
 ## Deployed Link
-
+ ### GitHub Deployed Link:
+ ### GitHub Link: 
 ## 📝 References 
 - [Stack Overflow Background Image Accessibility](https://stackoverflow.com/questions/41942992/how-to-make-background-image-accessible)
 
