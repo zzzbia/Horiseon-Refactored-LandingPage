@@ -40,7 +40,6 @@
 ![Accessibility Report](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/accessibilityreport.png?raw=true)
 ![CSS Changes 1](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/csschanges1.png?raw=true)
 ![CSS Changes 2](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/csschanges2.png?raw=true)
-![CSS Changes 3](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/csschanges3.png?raw=true)
 ![Title Nav Changes](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/titlenavchange.png?raw=true)
 ![HTML Changes](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/2ndchangehtml.png?raw=true)
 ![HTML Changes 2](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/3rdChanges.png?raw=true)
