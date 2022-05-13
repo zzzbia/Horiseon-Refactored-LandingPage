@@ -36,6 +36,7 @@
 - Included a Unique Title 
 
 ## Screenshots
+![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
 
 ### Images
 ![Semantic HTML Structure](https://www.w3schools.com/html/img_sem_elements.gif)
