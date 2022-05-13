@@ -16,7 +16,7 @@
 - [Changes](#changes)
 - [Screenshots](#screenshots)
 - [Image Reference](#images)
-- [DeployedLink](#DiployedLink)
+- [Deployed Link](#Deployed-Link)
 - [References](#Refererences)
 
 ## Changes 
@@ -37,19 +37,23 @@
 
 ## Screenshots
 ![Example](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/Example.png?raw=true)
+![Accessibility Report](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/accessibilityreport.png?raw=true)
 ![CSS Changes 1](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/csschanges1.png?raw=true)
 ![CSS Changes 2](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/csschanges2.png?raw=true)
 ![CSS Changes 3](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/csschanges3.png?raw=true)
 ![Title Nav Changes](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/titlenavchange.png?raw=true)
 ![HTML Changes](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/2ndchangehtml.png?raw=true)
+![HTML Changes 2](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/3rdChanges.png?raw=true)
+![HTML Changes 3](https://github.com/zzzbia/Horiseon-Refactored-LandingPage/blob/main/assets/readme/4thChanges.png?raw=true)
+
 
 
 ### Images
 ![Semantic HTML Structure](https://www.w3schools.com/html/img_sem_elements.gif)
 
 ## Deployed Link
- ### GitHub Deployed Link:
- ### GitHub Link: 
+  https://zzzbia.github.io/Horiseon-Refactored-LandingPage/
+
 ## 📝 References 
 - [Stack Overflow Background Image Accessibility](https://stackoverflow.com/questions/41942992/how-to-make-background-image-accessible)
 
